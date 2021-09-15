@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-15T17:28:49.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="kEA8OFCS7QKPxCIphqoQ" version="15.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-09-15T19:00:21.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 Edg/93.0.961.47" etag="mESEXhdnKRtADzWG-9DJ" version="15.2.7" type="github" pages="4">
   <diagram id="XoY-FOhwFAGHJ8UKVHV6" name="NUVOLA-INTEGRACION-OPERA">
     <mxGraphModel dx="3547" dy="2837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NUVOLA-INTEGRACION-OPERA-CLASES" id="Faw7eEnobHDlg37YmZ7W">
-    <mxGraphModel dx="7094" dy="4505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5540" dy="3552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tCea_k07Wn2TAUrETBYY-0" />
         <mxCell id="tCea_k07Wn2TAUrETBYY-1" parent="tCea_k07Wn2TAUrETBYY-0" />
@@ -397,7 +397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vcDXEPZTpEUbaY1TzEmP" name="NUVOLA-INTEGRACION-OPERA-DB">
-    <mxGraphModel dx="3921" dy="2559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6187" dy="3949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lof0fx7-gGHg6jB7SFXu-0" />
         <mxCell id="lof0fx7-gGHg6jB7SFXu-1" parent="lof0fx7-gGHg6jB7SFXu-0" />
@@ -517,7 +517,7 @@
           <mxGeometry x="-1010" y="1135" width="372.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3zHPFOVCh6d-eqKojKqi-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fillColor=none;" vertex="1" parent="lof0fx7-gGHg6jB7SFXu-1">
-          <mxGeometry x="-1480" y="-90" width="3310" height="70" as="geometry" />
+          <mxGeometry x="-1480" y="-90" width="3310" height="1740" as="geometry" />
         </mxCell>
         <mxCell id="3zHPFOVCh6d-eqKojKqi-31" value="&lt;b&gt;HOTEL&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="lof0fx7-gGHg6jB7SFXu-1">
           <mxGeometry x="-1400" y="515" width="980" height="380" as="geometry" />
